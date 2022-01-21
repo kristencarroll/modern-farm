@@ -1,3 +1,4 @@
+
 export const createAsparagus = () => {
     const asparagusObject = {
         type: "Asparagus",

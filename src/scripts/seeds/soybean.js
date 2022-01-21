@@ -1,3 +1,4 @@
+
 export const createSoybean = () => {
     const soybeanObject = {
         type: "Soybean",
